@@ -22,20 +22,22 @@ In Firebase, enable the following:
 Open **Terminal** and follow these steps:
 
 **1. Clone the repository** — downloads the project files to your computer
-`````bash
+```bash
 git clone https://github.com/davism7/WealthPath.git
-\```
+```
+
 **2. Navigate into the project folder**
-````bash
+```bash
 cd WealthPath
-\```
+```
+
 **3. Open the project in Xcode**
 ```bash
 open WealthPath.xcodeproj
-\```
+```
+
 From there, in **Xcode**:
 
 **4.** Select a simulator or your connected iPhone from the device picker at the top
 
 **5.** Press **⌘R** to build and run the app
-```
